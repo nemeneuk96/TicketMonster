@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ticket-Monster: Assortment of technologies including Arquillian
 ========================
 Author: Pete Muir
@@ -96,3 +97,8 @@ If you want to debug the source code or look at the Javadocs of any library in t
 
     mvn dependency:sources
     mvn dependency:resolve -Dclassifier=javadoc
+=======
+# TicketMonster
+
+helloworld
+>>>>>>> 0e68ee3dd28bc3f253a467708ae881232ceed98f
